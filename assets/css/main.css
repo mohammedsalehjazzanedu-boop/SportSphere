@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200;300;400;500;600;700;800;900&display=swap');
+@import url('https://www.onlinewebfonts.com/download/1f0f5a7a45b6f5b469b5c0c406b6bd2f'); /* Peyda Regular */
+@import url('https://www.onlinewebfonts.com/download/2f5d76e8ce7f0b599e47f2f4d4a5f9df'); /* Peyda Medium */
+@import url('https://www.onlinewebfonts.com/download/9f5f0a74f0c8f5f6f9b5f5f5f5f5f5f5'); /* Peyda Bold */
+
+@font-face {
+  font-family: 'Peyda';
+  src: url('../fonts/PeydaWeb/Web Fonts/bad932b256c899a3f6f0651b9ca19470.eot');
+  src: url('../fonts/PeydaWeb/Web Fonts/bad932b256c899a3f6f0651b9ca19470.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/PeydaWeb/Web Fonts/bad932b256c899a3f6f0651b9ca19470.woff2') format('woff2'),
+       url('../fonts/PeydaWeb/Web Fonts/bad932b256c899a3f6f0651b9ca19470.woff') format('woff'),
+       url('../fonts/PeydaWeb/Web Fonts/bad932b256c899a3f6f0651b9ca19470.ttf') format('truetype'),
+       url('../fonts/PeydaWeb/Web Fonts/bad932b256c899a3f6f0651b9ca19470.svg#PeydaWeb') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+* {
+  font-family: 'Peyda', sans-serif;
+}
+
+html, body {
+  font-family: 'Peyda', sans-serif;
+} 
